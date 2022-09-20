@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+}
+p {
+    padding: 5px;
+    margin: 5px;
+}
+h1,
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+}
+
+ol {
+    font-style: italic;font-size: medium;
+}
